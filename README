@@ -1,0 +1,9 @@
+Firmware list 
+
+Generate firmware password for a list of serial numbers
+
+
+Usage:
+```
+echo <serial numbers> > ~/Documents/firmls/serials.txt
+```
